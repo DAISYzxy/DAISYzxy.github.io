@@ -7,7 +7,7 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Xinyi ZHU's HomePage"
+title                    : "Xinyi ZHU"
 title_separator          : "-"
 name                     : &name "Xinyi ZHU"
 description              : &description "The homepage of Xinyi"
