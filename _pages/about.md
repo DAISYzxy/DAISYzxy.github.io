@@ -19,7 +19,7 @@ Xinyi ZHU (Daisy) is now a first year Ph.D student in _Data Science and Analytic
 
 _Fintech_  
 _Data Mining and Knowledge Discovery_  
-_Knowledge Bases_  
+_Knowledge Base_  
 
 
 ## Contact  
