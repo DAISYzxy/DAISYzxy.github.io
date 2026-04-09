@@ -67,9 +67,9 @@ author_profile: true
 
 ## 获奖情况
 
-- **日内瓦国际发明展金奖（评审特别嘉奖）**（K-Quant 项目）  
-- **Fintechathon 2025 冠军**（K-Quant 项目）  
+- **日内瓦国际发明展金奖（评审特别嘉奖）**  
+- **Fintechathon 2025 冠军**  
 - **广东省研究生学术论坛 一等奖（学术报告）**  
-- **FinTech Olympiad 2023 银奖**（K-Quant 项目）  
-- **FinTech Awards 2023（高校组）银奖**（K-Quant 项目）  
+- **FinTech Olympiad 2023 银奖**  
+- **FinTech Awards 2023（高校组）银奖**
 - **南开大学学业奖学金**

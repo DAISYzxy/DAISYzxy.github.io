@@ -50,18 +50,20 @@ Xinyi ZHU (Daisy) is now a first year Ph.D student in _Data Science and Analytic
 
 ## Awards
 
-- Startup project **K-Quant** won the **Gold Medal with Jury Congratulations** of Geneva Invention Exhibition  
-- Startup project **K-Quant** won the **Champion** of Fintechathon 2025  
+- **Gold Medal with Jury Congratulations** of Geneva Invention Exhibition  
+- **Champion** of Fintechathon 2025  
 - **First Prize** in Academic Presentation, Guangdong Provincial Graduate Forum  
-- Startup project **K-Quant** won the **Silver Medal** at the 2023 FinTech Olympiad and the **University and College - Silver Medal** of FinTech Awards 2023
+- **Silver Medal** at the 2023 FinTech Olympiad and the **University and College - Silver Medal** of FinTech Awards 2023
 - Nankai University **Academic Merit Scholarship**
 
 
 
 ## Research Interests
 
-_Data Management for LLMs_ 
+_Data Management for LLMs_
+
 _Knowledge Base_
+
 _Fintech_
 
 
