@@ -1,22 +1,38 @@
 ---
-permalink: /
-title: "Xinyi ZHU's Homepage"
-excerpt: "About me"
+layout: archive
+title: "朱心怡"
+permalink: /cn/
 author_profile: true
-redirect_from: 
-  - /about/
-  - /about.html
 ---
 
+## 关于我
 
+我是香港科技大学（广州）数据科学与分析博士生，师从陈雷教授。  
+我的研究方向主要包括：
 
-## Short Biography
+- 数据库系统
+- 大模型与检索增强生成
+- 知识图谱与金融智能
 
-Xinyi ZHU (Daisy) is now a first year Ph.D student in _Data Science and Analytics_, Hong Kong Univeristy of Science and Technology (Guangzhou), under the supervision of Professor Lei Chen. I received a Master degree in _Big Data Technology_ (BDT), at Hong Kong Univeristy of Science and Technology (HKUST). I also received a Bachelor degree in _Double Degree of Information Security and Law_, at Nankai University (NKU).
+---
 
+## 教育背景
 
+- **香港科技大学（广州）**  
+  数据科学与分析 博士  
+  2022.09 – 至今  
 
-## Publications
+- **香港科技大学**  
+  大数据技术 硕士  
+  2021.09 – 2022.06  
+
+- **南开大学**  
+  信息安全与法学 双学士  
+  2017.09 – 2021.06  
+
+---
+
+## 论文发表
 
 - **Xinyi Zhu**, Haoyang Li, Yongqi Zhang, Lei Chen.  
   *Skyline Retrieval meets Set-Cover Chunk Merging: A Cost-Effective RAG-Sketch for Long-Context LLM QA.*  
@@ -47,27 +63,13 @@ Xinyi ZHU (Daisy) is now a first year Ph.D student in _Data Science and Analytic
   **ACM Computing Surveys**  
   [[Preprint PDF]](https://arxiv.org/abs/2308.04947)
 
+---
 
-## Awards
+## 获奖情况
 
-- Startup project **K-Quant** won the **Gold Medal with Jury Congratulations** of Geneva Invention Exhibition  
-- Startup project **K-Quant** won the **Champion** of Fintechathon 2025  
-- **First Prize** in Academic Presentation, Guangdong Provincial Graduate Forum  
-- Startup project **K-Quant** won the **Silver Medal** at the 2023 FinTech Olympiad and the **University and College - Silver Medal** of FinTech Awards 2023
-- Nankai University **Academic Merit Scholarship**
-
-
-
-## Research Interests
-
-_Data Management for LLMs_ 
-_Knowledge Base_
-_Fintech_
-
-
-## Contact  
-
-Email: _xzhubb AT connect.ust.hk_
-
-
-
+- **日内瓦国际发明展金奖（评审特别嘉奖）**（K-Quant 项目）  
+- **Fintechathon 2025 冠军**（K-Quant 项目）  
+- **广东省研究生学术论坛 一等奖（学术报告）**  
+- **FinTech Olympiad 2023 银奖**（K-Quant 项目）  
+- **FinTech Awards 2023（高校组）银奖**（K-Quant 项目）  
+- **南开大学学业奖学金**

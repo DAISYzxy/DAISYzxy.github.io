@@ -1,7 +1,7 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/
+  - title: "中文"
+    url: /cn/
 
   # - title: "Talks"
   #   url: /talks/    
